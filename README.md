@@ -17,6 +17,6 @@ Download GeckoDriver executable from the link above and update the gecko_driver_
 Run the main.ipynb file. The list will be saved in a csv file named Mitacs_Dataset_2024.
 
 visit this link for code description:
-https://medium.com/p/e65b88e36be5
+https://medium.com/@ahmedbensalem201/ctrl-s-for-success-scraping-globalink-mitacs-projects-with-python-magic-e65b88e36be5?source=friends_link&sk=b35c7e364f2e0c3c8412573ebe33e059
 
 # Star the repo if you found it useful!
