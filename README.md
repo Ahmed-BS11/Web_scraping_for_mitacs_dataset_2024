@@ -1,5 +1,4 @@
-# Web_scraping_for_mitacs_dataset_2024
-# Globalink Mitacs Project Scraper
+# Web_scraping_for_Globalink_Mitacs_dataset_2024
 
 This repository contains a Python script to automate web scraping of project details from the Globalink Mitacs application portal. The script utilizes the Selenium library to interact with the website and extract project information.
 
