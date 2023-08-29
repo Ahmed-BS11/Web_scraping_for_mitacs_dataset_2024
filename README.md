@@ -16,6 +16,7 @@ Change the firefox_options.binary_location variable to point to your Firefox exe
 Download GeckoDriver executable from the link above and update the gecko_driver_path variable
 Run the main.ipynb file. The list will be saved in a csv file named Mitacs_Dataset_2024.
 
-visit this link for code description
+visit this link for code description:
+https://medium.com/p/e65b88e36be5
 
 # Star the repo if you found it useful!
